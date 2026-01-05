@@ -33,11 +33,11 @@ A análise utiliza o dataset **"Flood Risk in India"**, obtido na plataforma Kag
 ```
 flood-risk-statistical-analysis
 ├── data/
-│   └── flood_risk_india.xlsx
+│   └── flood_risk_cleaned.xlsx
 ├── src/
 │   └── statistical_analysis.R
 ├── report/
-│   └── flood_risk_analysis.pdf
+│   └── flood_risk.pdf
 ├── README.md
 ├── LICENSE
 └── .gitignore
