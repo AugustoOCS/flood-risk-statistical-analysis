@@ -140,11 +140,11 @@ The analysis is based on the **"Flood Risk in India"** dataset obtained from the
 ```
 flood-risk-statistical-analysis
 ├── data/
-│   └── flood_risk_india.xlsx
+│   └── flood_risk_cleaned.xlsx
 ├── src/
 │   └── statistical_analysis.R
 ├── report/
-│   └── flood_risk_analysis.pdf
+│   └── flood_risk.pdf
 ├── README.md
 ├── LICENSE
 └── .gitignore
